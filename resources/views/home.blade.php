@@ -51,7 +51,6 @@
                                     @endforeach
                                     </tfoot>
                                 </table>
-                                {{--                            <div class="col-lg-12 bg-warning">{!! $Users->links() !!}</div>--}}
                             </div>
                         </div>
                     </div>
