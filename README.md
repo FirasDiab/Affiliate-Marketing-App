@@ -6,10 +6,10 @@
 The project is a virtual affiliate marketing system built with [Laravel 7](https://laravel.com) The features of this project include
 
 1. Registration & login for users.
-2. Users Can invite another users through their referral link.
-3. Users can know number of registered users through his link.
+2. Users Can invite other users through their referral link.
+3. User can know number of registered users through his link.
 4. Counter for viewers of registration page.
-5. Admin Can show the list of Users Table & Number of referred users .
+5. Admin Can show the list of Users Table & Number of referred users for each one.
 
 ## Register(Route)
 
